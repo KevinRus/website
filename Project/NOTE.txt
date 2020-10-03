@@ -1,0 +1,3 @@
+Halo kak
+
+untuk yang file Home.html dia harus di refresh beberapa kali dulu supaya ukuran image di bagian update sama.
